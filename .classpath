@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.python/jython-standalone/2.5.2/source/2cccdd6b20cdabee66aa073b7e81e6eabfcfc93e/jython-standalone-2.5.2-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.python/jython-standalone/2.5.2/jar/3f29363b2765cab6a390fd96e2939c88926b913/jython-standalone-2.5.2.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.apache.ant/ant/1.8.3/source/874163e53f00615c3670cac6310c0d6da5b1b2b3/ant-1.8.3-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.apache.ant/ant/1.8.3/jar/77c746ecab048b9839c7a8e39e55fe8636c5b11/ant-1.8.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/commons-codec/commons-codec/1.6/source/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/commons-codec/commons-codec/1.6/jar/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/junit/junit/4.10/source/6c98d6766e72d5575f96c9479d1c1d3b865c6e25/junit-4.10-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/junit/junit/4.10/jar/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.apache.ant/ant-launcher/1.8.3/source/9f298b9426fc01dcd66319c77f1b10a7201dc865/ant-launcher-1.8.3-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.apache.ant/ant-launcher/1.8.3/jar/a22bcf9438c41828b04c13b052c4886606abac2/ant-launcher-1.8.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.hamcrest/hamcrest-core/1.1/source/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar" kind="lib" path="/Users/wadahiro/.gradle/caches/artifacts-8/filestore/org.hamcrest/hamcrest-core/1.1/jar/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" exported="true"/>
+</classpath>
